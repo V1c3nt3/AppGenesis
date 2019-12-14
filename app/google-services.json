@@ -1,0 +1,41 @@
+
+{
+  "project_info": {
+    "project_number": "20197581187",
+    "firebase_url": "https://eletrotecnicagenesis-f4c9a.firebaseio.com",
+    "project_id": "eletrotecnicagenesis-f4c9a",
+    "storage_bucket": "eletrotecnicagenesis-f4c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20197581187:android:9ad9dd1b79eb259b0ed6b6",
+        "android_client_info": {
+          "package_name": "br.edu.vicente.appgenesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20197581187-qglb6097nhf8g51fiphjd0tql2672ifq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGaa0LIXPo71fb_PQxHJYD2rMRKbZnjd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20197581187-qglb6097nhf8g51fiphjd0tql2672ifq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
